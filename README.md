@@ -43,7 +43,7 @@ This project integrates multiple Large Language Models (LLMs) with conversationa
 ```bash
 multi-llm-ai-assistant-langchain/
 │
-├── app.py
+├── Agentic_AI_Langchain_Multimodel.ipynb
 ├── requirements.txt
 ├── README.md
 
